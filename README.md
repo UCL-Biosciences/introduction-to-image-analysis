@@ -1,20 +1,15 @@
-### 18th - 20th May 2026, University of Cardiff, Wales
-
+### 7th & 14th May 2026, UCL
 <img width="100%" src="./Resources/RMS-DAIM_Workshop_Banner_Image.png" alt="Banner Image">
 
 # Overview
 
 In this workshop, we will bridge the gap between advanced microscopy data generation and the computational skills required for its analysis. By leveraging open-source tools like [FIJI](https://fiji.sc), [Jupyter notebooks](https://jupyter.org/) and [napari](https://napari.org), participants will learn to automate image analysis, enhancing the precision, efficiency, and reproducibility of their research. This three-day event, led by experienced core facility staff from the Francis Crick Institute and the University of Cardiff, offers a practical approach to mastering quantitative analysis and workflow automation, essential for advancing research across multiple domains.
 
->Applications for this workshop have now closed.
-
 # Instructors
-* [Dave Barry, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/david-barry)
-* [Martin Jones, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/martin-jones)
-* [Stefania Marcotti, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/stefania-marcotti)
-* [Sara Salgueiro Torres, Francis Crick Institute](https://www.crick.ac.uk/research/find-a-researcher/sara-salgueiro-torres)
-* [Tom Slater, University of Cardiff](https://profiles.cardiff.ac.uk/staff/slatert2)
-
+* [Virginia Silio](https://profiles.ucl.ac.uk/93150-virginia-silio)
+* Alan Greig
+* [James Gilbert](https://profiles.ucl.ac.uk/62905-james-gilbert)
+* 
 # Preparation
 
 1. Please remember to bring your laptop (and charger).
@@ -25,8 +20,9 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Program (draft)
 
-**Please note that all catering, as well as attendance of the social on the evening of the 18th, is covered by your registration fee.**
+TBC
 
+<!-- 
 <table style="width:100%">
 	<tbody>
 		<tr>
@@ -311,10 +307,10 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 		</tr>
 	</tbody>
 </table>
-
+ -->
 # Venue
 
-The workshop will take place in the School of Chemistry, Cardiff University, Cardiff (UK).
+The workshop will take place in Darwin Building, Room 114.
 
 # Previous Workshops
 
