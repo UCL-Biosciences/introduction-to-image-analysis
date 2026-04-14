@@ -9,7 +9,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 * [Virginia Silio](https://profiles.ucl.ac.uk/93150-virginia-silio)
 * Alan Greig
 * [James Gilbert](https://profiles.ucl.ac.uk/62905-james-gilbert)
-* 
+
 # Preparation
 
 1. Please remember to bring your laptop (and charger).
