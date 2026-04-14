@@ -1,8 +1,8 @@
 # Preparation For Introduction to Image Analysis Workshop
 
 Please read the following instructions carefully to prepare for the workshop. Completing these steps prior to the workshop is essential to ensure we stay on schedule. If you are having any trouble with the below instructions, please reach out for help:
-* For issues with FIJI, contact Dave (David.Barry@crick.ac.uk)
-* For conda issues, contact Stefania (stefania.marcotti@kcl.ac.uk)
+* For issues with FIJI, contact Virginia (v.silio@ucl.ac.uk)
+* For conda issues, contact James (james.d.gilbert@ucl.ac.uk)
 
 ## Download Demo Data
 
