@@ -312,6 +312,9 @@ TBC
 
 The workshop will take place in Darwin Building, Room 114.
 
+# Thanks!
+Huge thanks to [RMS-DAIM](https://www.google.com/search?q=rms+diam&rlz=1C1GCEA_enGB1129GB1129&oq=rms+diam&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MggIARAAGBYYHjIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEIMzk3MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8) and the [Crick Image Analysis team](https://www.crick.ac.uk/research/platforms-and-facilities/light-microscopy), who developed this material and share with open access licence.
+
 # Previous Workshops
 
 | Date | Venue | Content |
