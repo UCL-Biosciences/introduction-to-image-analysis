@@ -43,7 +43,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 | 12:30–13:30 | 🍽️ Lunch | |
 | 13:30–15:15 | Session 6 cont. | **Reproducible Analysis with Jupyter** |
 | 15:15-15:30 | ☕ Break | |
-| 15:30–16:00 | Session 7 | **Demo: Napari** — Using napari as a viewer from Jupyter |
+| 15:30–16:30 | Session 7 | **Demo: Napari** — Using napari as a viewer from Jupyter |
 
 # Venue
 
