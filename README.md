@@ -338,5 +338,5 @@ Huge thanks to [RMS-DAIM](https://www.google.com/search?q=rms+diam&rlz=1C1GCEA_e
     While some basic knowledge would be helpful, it's not essential and even if you have no knowledge of python, Jupyter notebooks or FIJI scripts/macros, you should still apply.
 
 <p align="center">
-	<img width="32%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="10%" src="./Resources/CRICK_Logo.png" alt="Crick Logo"> <img width="14%" src="./Resources/Cardiff_Logo.png" alt="Cardiff University Logo"> <img width="10%" src="./Resources/Nikon_Logo.png" alt="Nikon Logo">
+	<img width="32%" src="./Resources/RMS_Logo.jpg" alt="RMS Logo"> <img width="10%" src="./Resources/CRICK_Logo.png" alt="Crick Logo"> <img width="14%" src="./Resources/Cardiff_Logo.png" alt="Cardiff University Logo"> <img width="10%" src="./Resources/Nikon_Logo.png" alt="Nikon Logo"> <img width="10%" src="./Resources/ucl-logo.png" alt="UCL Logo">
 </p>
