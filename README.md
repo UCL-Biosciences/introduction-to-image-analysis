@@ -20,7 +20,29 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 # Program (draft)
 
-TBC
+
+### Day 1 — Basics and FIJI *(9:30–16:30)*
+
+| Time | Session | Topic |
+|------|---------|-------|
+| 9:30–10:45 | Session 1 | **Introduction** — Why automated analysis matters, embracing uncertainty, and understanding metadata |
+| 10:45–11:00 | ☕ Break | |
+| 11:00–12:30 | Session 2 | **Image Pre-Processing, Segmentation & Analysis** — Thresholding, noise filtering, extracting measurements |
+| 12:30–13:30 | 🍽️ Lunch | |
+| 13:30–15:15 | Session 3 | **Assembling Pipelines & Interpreting Results** — Counting objects, quantifying morphology and fluorescence |
+| 15:15–15:30 | ☕ Break | |
+| 15:30–16:30 | Session 4 | **Introduction to Batch Processing** — Recording commands to build a script |
+
+### Day 2 — Python and Jupyter *(9:30–16:30)*
+
+| Time | Session | Topic |
+|------|---------|-------|
+| 9:30–10:30 | Session 5 | **Introduction to Python** — Environments, Jupyter notebooks, and napari |
+| 10:30–11:00 | ☕ Break | |
+| 11:00–12:30 | Session 6 | **Reproducible Analysis with Jupyter** — Variables, arrays, quantifying objects in 2D images |
+| 12:30–13:30 | 🍽️ Lunch | |
+| 13:30–15:30 | Session 6 cont. | **Reproducible Analysis with Jupyter** |
+| 15:30–16:00 | Session 7 | **Demo: Napari** — Using napari as a viewer from Jupyter |
 
 <!-- 
 <table style="width:100%">
