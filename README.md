@@ -37,7 +37,7 @@ In this workshop, we will bridge the gap between advanced microscopy data genera
 
 | Time | Session | Topic |
 |------|---------|-------|
-| 9:30–10:45 | Session 5 | **Introduction to Python** — Environments, Jupyter notebooks, and napari |
+| 9:30–10:45 | Session 5 | **Introduction to Python** — Environments and Jupyter notebooks |
 | 10:45–11:00 | ☕ Break | |
 | 11:00–12:30 | Session 6 | **Reproducible Analysis with Jupyter** — Variables, arrays, quantifying objects in 2D images |
 | 12:30–13:30 | 🍽️ Lunch | |
